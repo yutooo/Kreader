@@ -29,9 +29,6 @@
                         <button onclick="post('subject','box')" id="button1">主題</button>
                         <button onclick="post('digest','box')" id="button2">要約</button>
                     </li>
-
-
-
                 </ul>
 
                 <div id="text">

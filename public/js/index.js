@@ -1,3 +1,4 @@
+//伸縮するテキストエリア
 function flexTextarea(el) {
     const dummy = el.querySelector('.FlexTextarea__dummy')
     el.querySelector('.FlexTextarea__textarea').addEventListener('input', e => {
