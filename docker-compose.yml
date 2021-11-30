@@ -91,5 +91,3 @@ volumes:
         driver: local
     sailmeilisearch:
         driver: local
-
-        
