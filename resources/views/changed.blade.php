@@ -11,7 +11,7 @@
         <header class="header">
             <a href="{{route('index')}}"  class="home"><h1>活字読める君</h1></a>
         </header>
-        {{-- <div id="wrap"> --}}
+
             <ul class="side" id="left">
                 <li id="subject">
                     主題<br>
@@ -76,7 +76,6 @@
                 ?>
                 </div>
             </div>
-        {{-- </div> --}}
 
         <script src="js/changed.js"></script>
     </body>
